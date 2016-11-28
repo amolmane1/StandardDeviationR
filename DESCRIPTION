@@ -2,7 +2,7 @@ Package: StandardDeviationR
 Title: Calculate Standard Deviation (in the highly unlikely event that sd() doesn't work)
 Version: 0.0.0.9000
 Authors@R: person("Amol", "Mane", email = "amolmane@alumni.ubc.ca", role = c("aut", "cre"))
-Description: Calculates the standard deviation of a vector/list input. I made this to practice making packages in R.
+Description: Calculates the standard deviation and standard error of a vector/list input. I made this to practice making packages in R.
 Depends:
     R (>= 3.3.1)
 License: MIT + file LICENSE
