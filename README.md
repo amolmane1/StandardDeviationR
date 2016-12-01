@@ -9,8 +9,16 @@ WRONG. Enter StandardDeviationR. Just do:
 A usage example:
 
     standard_deviation(c(1,2,3,4))
+    
+    
+## Installation
+In the terminal:
+`devtools::install_github("amolmane1/StandardDeviationR")`
 
-#### Update
+Then, in Rstudio:
+`library(StandardDeviationR)`
+
+## Update
 
 Addition of standard error function by Ahu ORAL
 
