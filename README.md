@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/amolmane1/StandardDeviationR.svg?branch=master)](https://travis-ci.org/amolmane1/StandardDeviationR)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Imagine an apocalyptic world. Base R decides not to work. sd() doesn't work. It's the end of the world, isn't it?
