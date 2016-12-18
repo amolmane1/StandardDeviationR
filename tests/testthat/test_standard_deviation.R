@@ -1,3 +1,4 @@
+# tests for standard_deviation
 context("Finding standard deviation")
 
 # Valid test cases
@@ -57,7 +58,7 @@ test_that("Large size array test case", {
 # })
 
 
-
+# tests for standard_error
 context("Finding standard error")
 
 # Valid test cases
