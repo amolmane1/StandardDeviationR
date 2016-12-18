@@ -10,6 +10,8 @@
 standard_deviation <- function(x) {
   n <- length(x)
   mean = sum(x) / n
+  sum_x = sum(x)
+  mean = sum_x / n
   ssq <- sum((x-mean)^2)
   stddev = sqrt(ssq/n)
   return(stddev)
